@@ -28,7 +28,15 @@ public class EvaluationService {
 	 */
 	public String acronym(String phrase) {
 		// TODO Write an implementation for this method declaration
+		String str = "Racecar";
+		char [] arr = new char [str.length()+1];
+		int j = str.length() -1; //minus 1 because it is out of bounds of the string index
+		for (int i =0; i<str.length(); i++)
+		{
+			arr[i] = str.charAt(j);
+		}
 		return null;
+		System.out.println();
 	}
 
 	/**
