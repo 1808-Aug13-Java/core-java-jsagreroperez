@@ -1,0 +1,68 @@
+
+?com.project0.model.UserCredentials#toString()Ljava/lang/String;
+__unknown_file ("1*ª
+1”
+‰C:\Users\Jorge\Documents\1808-Aug13-Java\core-java-workspace\p0-Jorge-Sagrero-Perez\src\main\java\com\project0\model\UserCredentials.java@	 @(%Í
+”
+‰C:\Users\Jorge\Documents\1808-Aug13-Java\core-java-workspace\p0-Jorge-Sagrero-Perez\src\main\java\com\project0\model\UserCredentials.java@	 @(0%0__concat"
+UserCredentials [username="
+""¾
+”
+‰C:\Users\Jorge\Documents\1808-Aug13-Java\core-java-workspace\p0-Jorge-Sagrero-Perez\src\main\java\com\project0\model\UserCredentials.java@	 @(@%1__concat"
+
+%0"
+, password=µ
+”
+‰C:\Users\Jorge\Documents\1808-Aug13-Java\core-java-workspace\p0-Jorge-Sagrero-Perez\src\main\java\com\project0\model\UserCredentials.java@	 @(K%2__concat"
+
+%1"
+""¿
+”
+‰C:\Users\Jorge\Documents\1808-Aug13-Java\core-java-workspace\p0-Jorge-Sagrero-Perez\src\main\java\com\project0\model\UserCredentials.java@	 @(\%3__concat"
+
+%2"
+, firstName=µ
+”
+‰C:\Users\Jorge\Documents\1808-Aug13-Java\core-java-workspace\p0-Jorge-Sagrero-Perez\src\main\java\com\project0\model\UserCredentials.java@	 @(h%4__concat"
+
+%3"
+""¾
+”
+‰C:\Users\Jorge\Documents\1808-Aug13-Java\core-java-workspace\p0-Jorge-Sagrero-Perez\src\main\java\com\project0\model\UserCredentials.java@	 A(%5__concat"
+
+%4"
+, lastName=µ
+”
+‰C:\Users\Jorge\Documents\1808-Aug13-Java\core-java-workspace\p0-Jorge-Sagrero-Perez\src\main\java\com\project0\model\UserCredentials.java@	 A(%6__concat"
+
+%5"
+""¾
+”
+‰C:\Users\Jorge\Documents\1808-Aug13-Java\core-java-workspace\p0-Jorge-Sagrero-Perez\src\main\java\com\project0\model\UserCredentials.java@	 A(.%7__concat"
+
+%6"
+, loggedIn=µ
+”
+‰C:\Users\Jorge\Documents\1808-Aug13-Java\core-java-workspace\p0-Jorge-Sagrero-Perez\src\main\java\com\project0\model\UserCredentials.java@	 A(9%8__concat"
+
+%7"
+""Ã
+”
+‰C:\Users\Jorge\Documents\1808-Aug13-Java\core-java-workspace\p0-Jorge-Sagrero-Perez\src\main\java\com\project0\model\UserCredentials.java@	 A(N%9__concat"
+
+%8"
+, accountNumber=¶
+”
+‰C:\Users\Jorge\Documents\1808-Aug13-Java\core-java-workspace\p0-Jorge-Sagrero-Perez\src\main\java\com\project0\model\UserCredentials.java@	 A(^%10__concat"
+
+%9"
+""¶
+”
+‰C:\Users\Jorge\Documents\1808-Aug13-Java\core-java-workspace\p0-Jorge-Sagrero-Perez\src\main\java\com\project0\model\UserCredentials.java@	 A(d%11__concat"
+
+%10"
+]" 
+”
+‰C:\Users\Jorge\Documents\1808-Aug13-Java\core-java-workspace\p0-Jorge-Sagrero-Perez\src\main\java\com\project0\model\UserCredentials.java@ A(e
+
+%11

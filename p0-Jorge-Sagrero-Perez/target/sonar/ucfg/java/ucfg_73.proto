@@ -1,0 +1,51 @@
+
+Ecom.project0.util.ConnectionUtil#getConnection()Ljava/sql/Connection;
+__unknown_file ("4*∏
+1í
+áC:\Users\Jorge\Documents\1808-Aug13-Java\core-java-workspace\p0-Jorge-Sagrero-Perez\src\main\java\com\project0\util\ConnectionUtil.java#	 #("ù
+í
+áC:\Users\Jorge\Documents\1808-Aug13-Java\core-java-workspace\p0-Jorge-Sagrero-Perez\src\main\java\com\project0\util\ConnectionUtil.java# #(
+""*—
+2í
+áC:\Users\Jorge\Documents\1808-Aug13-Java\core-java-workspace\p0-Jorge-Sagrero-Perez\src\main\java\com\project0\util\ConnectionUtil.java! !(±
+í
+áC:\Users\Jorge\Documents\1808-Aug13-Java\core-java-workspace\p0-Jorge-Sagrero-Perez\src\main\java\com\project0\util\ConnectionUtil.java! !(D%4qjava.sql.DriverManager#getConnection(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;)Ljava/sql/Connection;"
+
+url"
+
+
+username"
+
+
+password*
+1*Ë
+4í
+áC:\Users\Jorge\Documents\1808-Aug13-Java\core-java-workspace\p0-Jorge-Sagrero-Perez\src\main\java\com\project0\util\ConnectionUtil.java ($È
+í
+áC:\Users\Jorge\Documents\1808-Aug13-Java\core-java-workspace\p0-Jorge-Sagrero-Perez\src\main\java\com\project0\util\ConnectionUtil.java (?%03java.io.FileInputStream#<init>(Ljava/lang/String;)V"
+connection.propertiesÍ
+í
+áC:\Users\Jorge\Documents\1808-Aug13-Java\core-java-workspace\p0-Jorge-Sagrero-Perez\src\main\java\com\project0\util\ConnectionUtil.java (&%1Fjava.util.Properties#getProperty(Ljava/lang/String;)Ljava/lang/String;"
+url®
+í
+áC:\Users\Jorge\Documents\1808-Aug13-Java\core-java-workspace\p0-Jorge-Sagrero-Perez\src\main\java\com\project0\util\ConnectionUtil.java ('url__id"
+
+%1Ô
+í
+áC:\Users\Jorge\Documents\1808-Aug13-Java\core-java-workspace\p0-Jorge-Sagrero-Perez\src\main\java\com\project0\util\ConnectionUtil.java (0%2Fjava.util.Properties#getProperty(Ljava/lang/String;)Ljava/lang/String;"
+
+username≠
+í
+áC:\Users\Jorge\Documents\1808-Aug13-Java\core-java-workspace\p0-Jorge-Sagrero-Perez\src\main\java\com\project0\util\ConnectionUtil.java (1username__id"
+
+%2Ô
+í
+áC:\Users\Jorge\Documents\1808-Aug13-Java\core-java-workspace\p0-Jorge-Sagrero-Perez\src\main\java\com\project0\util\ConnectionUtil.java (0%3Fjava.util.Properties#getProperty(Ljava/lang/String;)Ljava/lang/String;"
+
+password≠
+í
+áC:\Users\Jorge\Documents\1808-Aug13-Java\core-java-workspace\p0-Jorge-Sagrero-Perez\src\main\java\com\project0\util\ConnectionUtil.java (1password__id"
+
+%3*
+2
+1
